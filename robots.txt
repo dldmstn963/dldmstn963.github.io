@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dldmstn963.github.io/sitemap.xml
